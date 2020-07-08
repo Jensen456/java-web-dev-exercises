@@ -1,4 +1,9 @@
 package exercises.technology;
 
-public class SmartPhone {
+public class SmartPhone extends Computer {
+    public String mobileCarrier = "T-Mobile";
+
+    public static void makeCall() {
+
+    }
 }
